@@ -2,12 +2,16 @@
 import {
     contact,
     css,
+    express,
     git,
     github,
     html,
     javascript,
     linkedin,
+    mongodb,
+    mui,
     nextjs,
+    nodejs,
     react,
     redux,
     sass,
@@ -59,6 +63,26 @@ export const skills = [
     {
         imageUrl: react,
         name: "React",
+        type: "Frontend",
+    },
+    {
+        imageUrl: express,
+        name: "Express.js",
+        type: "Backend",
+    },
+    {
+        imageUrl: mongodb,
+        name: "MongoDB",
+        type: "Database",
+    },
+    {
+        imageUrl: nodejs,
+        name: "Node.js",
+        type: "Backend",
+    },
+    {
+        imageUrl: mui,
+        name: "Material UI",
         type: "Frontend",
     },
     {

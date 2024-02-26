@@ -16,7 +16,7 @@ const renderContent = {
   1: (
     <h1 className="sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5">
       Hi, I am <span className="font-semibold">Aryan</span>👋
-      <br />A FrontEnd Developer from India.
+      <br />A Full stack Developer from India.
     </h1>
   ),
   2: (
@@ -28,14 +28,14 @@ const renderContent = {
   ),
   3: (
     <InfoBox
-      text="Design and worked on appealing frontend site. Curious about the Projects?"
+      text="Design and worked on appealing and user-friendly site. Curious about the Projects?"
       link="/projects"
       btnText="Projects"
     />
   ),
   4: (
     <InfoBox
-      text="Looking for a Frontend dev?"
+      text="Looking for a Full stack dev?"
       link="/contact"
       btnText="Let's Talk"
     />
