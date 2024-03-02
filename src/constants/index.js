@@ -139,4 +139,11 @@ export const projects = [
         description: 'Integrated a dynamic and responsive car rental platform using React and Tailwind CSS. Implemented a seamless light/dark theme switcher to enhance user customization. Integrated smooth animations for better user experience using AOS (Animate On Scroll Library).',
         link: "https://car-rental-weld.vercel.app/",
     },
+    {
+        iconUrl: "https://img.icons8.com/ios-filled/50/chat--v1.png",
+        theme: 'btn-back-yellow',
+        name: 'Chat-App',
+        description: 'MERN Chat App is a real-time messaging platform, built with MongoDB, Express.js, React.js, and Node.js. It offers instant messaging, and real-time user authentication for seamless communication.',
+        link: "https://mern-chat-3ifz.onrender.com/signup",
+    },
 ];
